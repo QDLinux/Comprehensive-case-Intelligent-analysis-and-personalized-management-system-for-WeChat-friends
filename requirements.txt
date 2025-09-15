@@ -1,0 +1,9 @@
+pandas
+jieba
+scikit-learn
+matplotlib
+wordcloud
+requests
+beautifulsoup4
+numpy
+snowNLP
